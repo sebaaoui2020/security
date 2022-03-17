@@ -40,24 +40,25 @@
     },
     "GuideContent": [
         {
-            "title": "Blue Tape Location",
-            "description": "Walk into the Security Office and head over to the desk. Grab the Blue Tape by interacting with it and put it in the nearby Blue VCR. Watch the video on the tape. The tape introduces you to using the hands we will get. These hands are very important as they are used to solve most of the puzzles encountered during Chapter 1. "
+            "title": "Tips and Tricks",
+            "description": "Throughout Five Nights at Freddy's campaign, Gregory will have to sneak around roaming animatronics, survive gruelling boss battles and hide from the various inhabitants of Freddy Fazbear's Mega Pizzaplex. In short, it can be a tough ride, but it becomes significantly more manageable with a few key strategies under your belt. "
         },
         {
-            "title": "Entering the Lobby",
-            "description": "Once you have the Blue hand head back to the reception area. Jump over the turn-style by the front desk to reach a door with a blue hand above it. Shoot your blue hand at the switch to open the door. This door leads you to the factory and the real start of the scary section of the game. "
+            "title": "Know Your Hiding Spots",
+
+            "description": "One of the easiest ways to survive being stalked by Chica, Monty, Roxy or any of the other hulking animatronics haunting the Pizzaplex is to hop into one of the mall's various hiding spots. These come in all shapes and sizes, including lockers, bins, laundry baskets, pushchairs, food stalls, photo booths and even Freddy himself. "
         },
         {
-            "title": "Playtime Lobby",
-            "description": "Inside the lobby you will see a few interesting things. The first, and most prominent, is the large toy creature named Huggy Wuggy in the center of the room. Huggy Wuggy is the toy that chases you throughout this chapter. The second thing you will notice is that there are seven doors in this room. These doors lead to different areas of the factory. "
+            "title": "Rely On Your Cameras",
+            "description": "Keeping tabs on animatronics as you're sneaking around the Pizzaplex can be challenging. They're often fast and the size of areas means they can disappear and reappear without warning. However, you have one tool the animatronics don't: access to the various cameras dotted around each area. "
         },
         {
-            "title": "Turn the Power Back On ",
-            "description": "In the Power room head to the very end of the room to encounter a socket that is covered. Use the Blue hand to open this cover on the socket. Once the socket is open shoot the Blue hand onto the exposed socket. Hold the Blue hand there and walk around the two electricity conducting poles in the room leading back to the front. Doing this correctly turns the power back on. "
+            "title": "Save As Often As Possible",
+            "description": "The animatronics in Five Nights at Freddy's: Security Breach are incredibly powerful. Every single one will be able to finish Gregory off by catching him just once and, bar a few specific scenarios, there are no checkpoints you can easily jump to when that happens. The only way to make sure you're not replaying long stretches of the game after being caught is to make save points a regular part of your routine. "
         },
         {
-            "title": "Get the Red Hand",
-            "description": "Head forward through this room past the Yellow VCR and go up the stairs onto the catwalk. On the catwalk walk forward until you reach a control panel. Next to the control panel is a Blue Fuse on the ground and a gap in the railing. Grab the fuse and place it into the control panel then drop down to the floor below using the gap in the railing. "
+            "title": "Use Sprint to Break Line of Sight",
+            "description": "When Chica, Monty and Roxy spot you, it can be tempting to bolt to the exit of the area in a bid to save yourself. Unfortunately, trying to outrun a pursuer usually isn't a wise idea. While you'll initially be able to put distance between yourself and an animatronic, Gregory's stamina meter will eventually run out and he'll run at a pace perfect for an animatronic looking to snag itself an easy meal. "
         }
     ]
 }
