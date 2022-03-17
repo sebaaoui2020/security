@@ -1,0 +1,63 @@
+{
+    "Ads": {
+        "AdMob": {
+            "activated": false,
+            "banner": "ca-app-pub-3940256099942544/6300978111",
+            "native": "ca-app-pub-3940256099942544/2247696110",
+            "interstitial": "ca-app-pub-3940256099942544/1033173712"
+        },
+        "FAN": {
+            "activated": false,
+            "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        },
+        "ironSource": {
+            "activated": false,
+            "app_key": "11dae943d"
+        },
+        "Tapdaq": {
+            "activated": true,
+            "AppId": "619f526486c31c4e07c1134c",
+            "ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+        },
+        "Yandex": {
+            "banner": "R-M-1355917-2",
+            "native": "R-M-1355917-3",
+            "interstitial": "R-M-1355917-1"
+        }
+    },
+    "Config": {
+        "app_version": "1.0",
+        "package_name": "com.scarypoppy.survival_horror_playtime",
+        "rattingIsEnabled": false
+    },
+    "Privacy": {
+        "isEnabled": true,
+        "title": "Privacy Policy",
+        "message": "Privacy Policy Message",
+        "url": "https://termly.io/privacy-policy/"
+    },
+    "GuideContent": [
+        {
+            "title": "Blue Tape Location",
+            "description": "Walk into the Security Office and head over to the desk. Grab the Blue Tape by interacting with it and put it in the nearby Blue VCR. Watch the video on the tape. The tape introduces you to using the hands we will get. These hands are very important as they are used to solve most of the puzzles encountered during Chapter 1. "
+        },
+        {
+            "title": "Entering the Lobby",
+            "description": "Once you have the Blue hand head back to the reception area. Jump over the turn-style by the front desk to reach a door with a blue hand above it. Shoot your blue hand at the switch to open the door. This door leads you to the factory and the real start of the scary section of the game. "
+        },
+        {
+            "title": "Playtime Lobby",
+            "description": "Inside the lobby you will see a few interesting things. The first, and most prominent, is the large toy creature named Huggy Wuggy in the center of the room. Huggy Wuggy is the toy that chases you throughout this chapter. The second thing you will notice is that there are seven doors in this room. These doors lead to different areas of the factory. "
+        },
+        {
+            "title": "Turn the Power Back On ",
+            "description": "In the Power room head to the very end of the room to encounter a socket that is covered. Use the Blue hand to open this cover on the socket. Once the socket is open shoot the Blue hand onto the exposed socket. Hold the Blue hand there and walk around the two electricity conducting poles in the room leading back to the front. Doing this correctly turns the power back on. "
+        },
+        {
+            "title": "Get the Red Hand",
+            "description": "Head forward through this room past the Yellow VCR and go up the stairs onto the catwalk. On the catwalk walk forward until you reach a control panel. Next to the control panel is a Blue Fuse on the ground and a gap in the railing. Grab the fuse and place it into the control panel then drop down to the floor below using the gap in the railing. "
+        }
+    ]
+}
